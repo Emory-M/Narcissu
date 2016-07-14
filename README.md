@@ -3,6 +3,7 @@
 此版本只包含 Narcissu 初代游戏内容, 使用 [Ponscripter-fork](https://github.com/sekaiproject/ponscripter-fork) 构建的macOS App  
 Tip: ⌘+F 退出全屏  
   
+![Narcissu](https://github.com/Emory-M/Narcissu/blob/master/narcissu_banner.jpg?raw=true)  
 原作：[STAGE-NANA](http://stage-nana.sakura.ne.jp/narcissu.htm)  
 中文化项目：[Key Fans Club](http://www.keyfc.net/project/cnarcissu/)  
 
